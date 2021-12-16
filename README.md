@@ -15,4 +15,5 @@ https://www.icloud.com/shortcuts/2395094133874ac4b25eecb9215fb817
 
 ## 调用QuickTime Player录屏
 
-
+Shortcuts link:
+https://www.icloud.com/shortcuts/1735f0a9cb144d00a97be91e53843cc8
